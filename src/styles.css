@@ -1,0 +1,56 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+  }
+  section {
+    margin: 2rem 0;
+    padding: 2rem;
+  }
+  h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  p {
+    color: #666;
+  }
+  .col{
+    height: 500px;
+    margin-top: 70px;
+  }
+  .p-3 h1{
+    text-align: right;
+  }
+  .web{
+    text-align: center;
+  }
+  .row img{
+    margin: 30px;
+  }
+  .nav-item{
+    margin: 20px;
+  }
+  footer{
+    height: 100px;
+    text-align: center;
+  }
+  footer h5{
+    padding: 40px;
+  }
+  .resume h2{
+    margin-top: 50px;
+  }
+  button{
+    margin: 60px;
+    margin-left: 600px;
+  }
+  .pro{
+    text-align: center;
+    
+  }
+  .pro h3{
+    margin: 20px;
+  }
+  
