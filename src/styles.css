@@ -53,11 +53,11 @@ body {
   .pro h3{
     margin: 20px;
   }
-  @media screen and (min-width:450px) and (max-width:1024px){
+  @media screen and (min-width:250px){
    .nav-item{
       position: relative;
       font-size: 10px;
-       width: 5%;
+       width: 2%;
     }
   .col{
     position: relative;
