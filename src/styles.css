@@ -57,6 +57,7 @@ body {
    .nav-item{
       position: relative;
       font-size: 10px;
+       width: 5%;
     }
   .col{
     position: relative;
